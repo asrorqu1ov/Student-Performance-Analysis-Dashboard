@@ -7,7 +7,7 @@ The goal is to identify key factors affecting exam results and present insights 
 ---
 
 ## 📷 Dashboard Preview
-![Student Performance Dashboard](students_analysis.jpg)
+![Student Performance Dashboard](image/student_anlysis.jpg)
 
 > Interactive Excel dashboard showing KPIs, slicers, and key insights.
 
@@ -73,4 +73,4 @@ All visuals are **pivot-based** and fully slicer-responsive.
 - Pivot Tables & Slicers
 - Excel Dashboard & Data Visualization
 
----
+
