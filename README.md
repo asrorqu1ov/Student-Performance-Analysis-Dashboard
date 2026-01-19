@@ -7,7 +7,7 @@ The goal is to identify key factors affecting exam results and present insights 
 ---
 
 ## 📷 Dashboard Preview
-![Student Performance Dashboard](image/student anlysis.jpg)
+![Student Performance Dashboard](image/student.png)
 
 > Interactive Excel dashboard showing KPIs, slicers, and key insights.
 
